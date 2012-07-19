@@ -1,8 +1,8 @@
 No Answer
 Black2
 White2
-Male
-Female
+Lelaki
+Perempuan
 Battle
 Trade
 The City
@@ -22,9 +22,9 @@ Snivy
 Competition
 Cooperation
 -
-Go to the past
-Go to the future
-Don't need
+Pergi ke masa lampau
+Pergi ke masa depan
+Tak perlu
 Family
 Friends
 Self
@@ -133,14 +133,14 @@ Ghost
 Dragon
 Dark
 Steel
-0-10 Hours
-10-20 Hours
-20-30 Hours
-30-40 Hours
-40-50 Hours
-50-60 Hours
-60-70 Hours
-70-80 Hours
-80-90 Hours
-90-100 Hours
-100+ Hours
+0-10 Jam
+10-20 Jam
+20-30 Jam
+30-40 Jam
+40-50 Jam
+50-60 Jam
+60-70 Jam
+70-80 Jam
+80-90 Jam
+90-100 Jam
+100+ Jam
